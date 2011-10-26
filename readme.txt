@@ -29,3 +29,6 @@ Yuguo Yu
 Yale University
 
 yuguo.yu@yale.edu
+
+20111026 updated release.mod to derivimplicit method.  See file for
+more info.
