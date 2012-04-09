@@ -32,3 +32,6 @@ yuguo.yu@yale.edu
 
 20111026 updated release.mod to derivimplicit method.  See file for
 more info.
+20120409 updated cad.mod capump.mod to derivimplicit method which
+should have been changed with above 20111026 update. See
+http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
