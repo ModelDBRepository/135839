@@ -35,3 +35,6 @@ more info.
 20120409 updated cad.mod capump.mod to derivimplicit method which
 should have been changed with above 20111026 update. See
 http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
+20120515 Ted Carnevale supplied these updates which are THREADSAFE,
+slightly cleaner code, and handle singularities correctly (ca.mod,
+km.mod, and kv.mod didn't).
